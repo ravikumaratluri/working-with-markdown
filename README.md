@@ -1,6 +1,26 @@
 # working-with-markdown
 A short README.md that explains how to get started with Markdown, a super-simple markup language for web pages
 
+## My Work
+
+I have added this section. I am Ravi Kumar Atluri working on Masters of Applied Computer Science. Web Apps is one among the subjects I enrolled for Spring 2019 trimester. The subject is really amazing where I am experiencing the real Industry work. I am very gald to have Denise Case as my instructor. Though I have 2 years of work experience in IT field, I am learing new things in class under her guidance.
+
+Following are my other professional website profiles.
+
+- [LinkedIn](https://www.linkedin.com/in/ravi-kumar-atluri-27988b131/ "My LinkedIn Profile")
+- [Bitbucket](https://bitbucket.org/ravikumaratluri/ "My Bitbucket Profile")
+
+My interests goes on
+
+1. Programing
+1. Travelling
+1. Badminton
+
+This is how I look
+
+![RAVI KUMAR](https://pbs.twimg.com/profile_images/990481706527289344/rKzgwqE8_400x400.jpg "Ravi Kumar Atluri")
+
+
 ## Links
 
 - [Webpage](https://profcase.github.io/working-with-markdown/ "Working With Markdown Webpage")
@@ -99,5 +119,6 @@ Learn more by checking out [Mastering Markdown](https://guides.github.com/featur
 Denise Case
 
 dcase@nwmissouri.edu
+
 
 
